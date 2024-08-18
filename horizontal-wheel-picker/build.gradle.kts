@@ -62,5 +62,5 @@ dependencies {
     implementation(libs.coil.svg)
 
     // SDP/SSP Compose
-    api(libs.sdp.compose)
+    implementation(libs.sdp.compose)
 }
