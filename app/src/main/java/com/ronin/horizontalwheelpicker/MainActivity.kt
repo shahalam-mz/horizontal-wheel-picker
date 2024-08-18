@@ -18,10 +18,10 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import com.ronin.horizontal_wheel_picker.HorizontalWheelPicker
 import com.ronin.horizontalwheelpicker.ui.theme.HorizontalWheelPickerTheme
-import ir.kaaveh.sdpcompose.sdp
-import ir.kaaveh.sdpcompose.ssp
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -40,9 +40,9 @@ class MainActivity : ComponentActivity() {
                         var selectedItem by remember { mutableIntStateOf(15) }
                         Text(
                             text = selectedItem.toString(),
-                            fontSize = 42.ssp
+                            fontSize = 46.sp
                         )
-                        Spacer(modifier = Modifier.height(6.sdp))
+                        Spacer(modifier = Modifier.height(8.dp))
                         HorizontalWheelPicker(
                             totalItems = 100,
                             initialSelectedItem = selectedItem,
