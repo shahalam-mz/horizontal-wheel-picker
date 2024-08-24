@@ -6,7 +6,7 @@ customization options for appearance, spacing, and behavior.
 
 Check out this short GIF demonstrating the `HorizontalWheelPicker`:
 
-![HorizontalWheelPicker Demo]("https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RicjVxaDMxcnBpcG13c3RrYjZlcWlreXF1MzA4Y2huemtzMXAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CMKNEEbeNToTHaSrIF/giphy.gif")
+![HorizontalWheelPicker Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3RicjVxaDMxcnBpcG13c3RrYjZlcWlreXF1MzA4Y2huemtzMXAwbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CMKNEEbeNToTHaSrIF/giphy.gif)
 
 ## Features
 
