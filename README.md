@@ -6,7 +6,7 @@ customization options for appearance, spacing, and behavior.
 
 Check out this short GIF demonstrating the `HorizontalWheelPicker`:
 
-![HorizontalWheelPicker Demo](horizontal-wheel-picker.gif)
+![Alt Text](horizontal-wheel-picker.gif)
 
 ## Features
 
